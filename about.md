@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+High-qualified Machine Learning Practitioner with solid background and experience in Artificial Intelligence who is seeking for the challenges and opportunities to conduct cutting-edge research in Deep Learning for Image, Audio, and Natural Language Processing.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+* Axon Enterprise, Inc., Vietnam — Senior Research Engineer
+
+
+* Vietnam Communications Corporation (VC Corp), Vietnam — Machine Learning Engineer
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sputnikav@gmail.com](mailto:sputnikav@gmail.com)
