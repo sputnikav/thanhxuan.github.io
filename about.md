@@ -6,12 +6,60 @@ permalink: /about/
 
 High-qualified Machine Learning Practitioner with solid background and experience in Artificial Intelligence who is seeking for the challenges and opportunities to conduct cutting-edge research in Deep Learning for Image, Audio, and Natural Language Processing.
 
-### More Information
+### Experience
 
-* Axon Enterprise, Inc., Vietnam — Senior Research Engineer
+* **Axon Enterprise, Inc., Vietnam** — Senior Research Engineer
+
+Develop Deep Learning algorithms for a variety of projects. Mentor interns and junior engineers. Participate in Company Hackathons and Challenges. Work on Data pipeline for Training and Evaluation on high confidential Law enforcement data. Build services and system for managing datasets and models serving the Training and Evaluation pipeline.
+
+Highlighted Projects:
+
+    - Automatic License Plate Recognition (ALPR) for Fleet 3 (Axon next-generation in-vehicle camera)
+    - Dataset and Model Management
+    - Archival (Cold) Storage
+    - Noise Cancelling
+    - Face Detection and Re-identification in videos for Redaction Studio.
+    - Skin blurring and Abnormal skin detection for Redaction.
 
 
-* Vietnam Communications Corporation (VC Corp), Vietnam — Machine Learning Engineer
+* **Vietnam Communications Corporation (VC Corp), Vietnam** — Machine Learning Engineer
+
+Research and develop Deep Learning algorithms to solve NLP problems.
+
+Highlighted Projects:
+
+    - Sentiment Analysis
+    - Dependency Parsing for Vietnamese
+    - Term-Aspect Relation Extraction.
+
+
+### Education
+
+* Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea — MSc Electrical Engineering
+
+* South Russian State Technical University (SRSTU), Novocherkassk, Russia — BSc Electrical and Computer Engineering
+
+* Hanoi University of Technology (HUT), Hanoi, Vietnam — First-year student in Electronics and Telecommunication.
+
+
+### Research works
+
+* Hierarchical Feature Extraction by Multi-layer Non-negative Matrix Factorization network for Classification task. Neurocomputing. Type: Journal | Rank: Q1 | IF: 3.241 — Hyun Ah Song, Bo-kyeong Kim, Thanh Luong Xuan, Soo-Young Lee.
+
+* Color Image Processing Based on NMF with Convolutional Neural Network. IJCNN, Beijing, China, July 2014. Type: Int. Conference | Rank: A — Thanh Luong Xuan, Bo-kyeong Kim, Soo-Young Lee.
+
+* Effective method for calculating Frequency Response of Electrical Circuits. Journal of Russian Higher Education Institutions “Electromechanics”, pp.31-34, May 2010. Type: Journal | Rank: N/A | IF: N/A — Savelov N.S., Thanh L.X..
+
+* Numerical experiments with a Modification of Gaussian Elimination. 9 th Scientific-Practical Conference “Microprocessor-based, analog and digital systems: design, circuit theory and application”, SRSTU, 2009. Type: Journal | Rank: N/A | IF: N/A — Savelov N.S., Thanh L.X., Pham N.K..
+
+
+### References
+
+* Prof. Soo-Young Lee — Department of Electrical Engineering, Director of Brain Science Research Center, KAIST, Korea
+
+* Prof. Lachin Vyachislav Ivanovich — Doctor of Technical Sciences, Head Professor of Department of Automatics and Telemechanics, SRSTU, Russia
+
+* Prof. Savelov Nicolay Semenovich — Candidate of Technical Sciences, Deputy Head Professor of Department of Automatics and Telemechanics, SRSTU, Russia
 
 
 ### Contact me
