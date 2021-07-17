@@ -3,8 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-
 High-qualified Machine Learning Practitioner with solid background and experience in Artificial Intelligence who is seeking for the challenges and opportunities to conduct cutting-edge research in Deep Learning for Image, Audio, and Natural Language Processing.
+
+![thanh]({{Psite.baseurl}}/images/thanh.jpg)
+
 
 ## Experience
 
